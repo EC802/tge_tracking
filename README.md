@@ -8,3 +8,4 @@ It will store the last used tracking number in "latest_id". You can then just ru
 
 Requires: Curl, jq, bash.
 
+<img width="751" height="351" alt="tracking 1-censored" src="https://github.com/user-attachments/assets/012db028-baf4-417a-8834-530c57e16b8f" />
